@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757561795469",
+    "project_id": "aplikasi-canaiku",
+    "storage_bucket": "aplikasi-canaiku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757561795469:android:29c1f1a9c804de327293c4",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_canaiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757561795469-njmc3rvrtv106thqgk2ck4d35s6e3j8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyu3MttILFCa74-4rvi24AZS86egFs2xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757561795469-njmc3rvrtv106thqgk2ck4d35s6e3j8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
